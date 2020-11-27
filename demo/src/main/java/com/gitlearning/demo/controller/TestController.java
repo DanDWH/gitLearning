@@ -9,5 +9,7 @@ public class TestController {
         System.out.println("hello word feature");
         System.out.println("冲突2号，E盘的代码");
         System.out.println("尝试提交--------------------");
+        System.out.println("尝试使用tortoisgit解决冲突");
+        System.out.println("-----------------------");
     }
 }
