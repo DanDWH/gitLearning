@@ -6,6 +6,8 @@ package com.gitlearning.demo.controller;
  */
 public class TestController {
     public static void main(String[] args) {
-        System.out.println("hello word feature");
+        System.out.println("hello word md");
+        System.out.println("冲突尝试1");
+        System.out.println("-----------------");
     }
 }
